@@ -1,0 +1,10 @@
+div {
+  margin: auto;
+  margin-top: 10rem;
+  padding: 2rem;
+  background-color: burlywood;
+  width: 30%;
+}
+ p {
+  font-size: 1.2rem;
+ }
