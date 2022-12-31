@@ -26,3 +26,6 @@ Create a function to log the movie information like so: "Puff the Magic Dragon l
 ## Screenshot for question 7
 
 ![Hover effect](/images/hover.png)
+
+## Screenshots for JS logs
+![JS logs](/images/jslogs.png)
